@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(252, 223, 214);
+}
+
+div.nadpis {
+    position: relative;
+    padding: 15px 15px 20px 15px;
+    width: 300px;
+    border-top: 8px orange solid;
+    border-right: 4px orange solid;
+    border-bottom: 4px orange solid;
+    border-left: 8px orange solid;
+    background-color: white;
+}
+
+div.border2 {
+    position: absolute;
+    top: -8px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    border: 4px brown solid;
+}
